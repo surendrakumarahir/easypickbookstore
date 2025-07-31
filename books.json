@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "38 Years NEET Previous Year Solved Question Papers Chemistry PYQ (2025 - 1988) Chapterwise Topicwise Solutions For NEET Exam 2026 with Newly Added Topics",
+    "author": "PW",
+    "price": 0,
+    "original_price": 0,
+    "description": "Prepare for NEET Chemistry with ‘38 Years NEET Previous Year Solved Question Papers Chemistry PYQ (2025-1988)’. This NEET Chemistry book offers a practical approach with 38 Years of Solved Question Papers, helping you understand exam patterns and key topics. It aligns with the latest NEET syllabus and includes updated questions to support your focused revision. Additionally, it provides chapter-wise topic-wise solutions for the NEET Exam 2026 with newly added topics, ensuring comprehensive coverage for your preparation.",
+    "category": "NEET",
+    "cover_image": "public/images/38-chemistry-neet-pw.png"
+  },
+  {
+    "id": 2,
+    "title": "38 Years NEET Previous Year Solved Question Papers Physics PYQ (2025 - 1988) Chapterwise Topicwise Solutions For NEET Exam 2026 with Newly Added Topics",
+    "author": "PW",
+    "price": 0,
+    "original_price": 0,
+    "description": "Prepare for NEET Physics with ‘38 Years NEET Previous Year Solved Question Papers Physics PYQ (2025-1988)’. This NEET Physics book offers a practical approach with 38 Years of Solved Question Papers, helping you understand exam patterns and key topics. It aligns with the latest NEET syllabus and includes updated questions to support your focused revision. Additionally, it provides Chapterwise topic-wise solutions for the NEET Exam 2026 with newly added topics, ensuring comprehensive coverage for your preparation.",
+    "category": "NEET",
+    "cover_image": "public/images/38-physics-neet-pw.png"
+  },
+  {
+    "id": 3,
+    "title": "38 Years NEET Previous Year Solved Question Papers Biology PYQ (2025 - 1988) Chapterwise Topicwise Solutions For NEET Exam 2026 with Newly Added Topics",
+    "author": "PW",
+    "price": 0,
+    "original_price": 0,
+    "description": "Prepare for NEET Biology with ‘38 Years NEET Previous Year Solved Question Papers Biology PYQ (2025-1988)’. This NEET Biology book offers a practical approach with 38 Years of Solved Question Papers, helping you understand exam patterns and key topics. It aligns with the latest NEET syllabus and includes updated questions to support your focused revision. Additionally, it provides Chapterwise topic-wise solutions for the NEET Exam 2026 with newly added topics, ensuring comprehensive coverage for your preparation.",
+    "category": "NEET",
+    "cover_image": "public/images/38-biology-neet-pw.png"
+  },
+  {
+    "id": 4,
+    "title": "Physics Handwritten Notes by Mr Sir",
+    "author": "Mr Sir",
+    "price": 0,
+    "original_price": 0,
+    "description": "Physics Handwritten Notes by Mr Sir for NEET preparation.",
+    "category": "NEET",
+    "cover_image": "public/images/physics-made-easy-pw.png"
+  },
+  {
+    "id": 5,
+    "title": "Botany Med Easy Hand Written Notes",
+    "author": "PW",
+    "price": 0,
+    "original_price": 0,
+    "description": "Botany Med Easy Hand Written Notes for NEET preparation.",
+    "category": "NEET",
+    "cover_image": "public/images/botany-made-easy-pw.png"
+  },
+  {
+    "id": 6,
+    "title": "Zoology Med Easy Notes",
+    "author": "PW",
+    "price": 0,
+    "original_price": 0,
+    "description": "Zoology Med Easy Notes for NEET preparation.",
+    "category": "NEET",
+    "cover_image": "public/images/zologiy-made-easy-pw.png"
+  },
+  {
+    "id": 7,
+    "title": "MEDEASY Handwritten Notes Chemistry by Pankaj Sijairya",
+    "author": "Pankaj Sijairya",
+    "price": 0,
+    "original_price": 0,
+    "description": "MEDEASY Handwritten Notes Chemistry by Pankaj Sijairya for NEET preparation.",
+    "category": "NEET",
+    "cover_image": "public/images/chemistry-made-easy-pw.png"
+  },
+  {
+    "id": 8,
+    "title": "Concepts of Physics Volume 1 Book in English By H C Verma Latest Edition",
+    "author": "H.C. Verma",
+    "price": 350,
+    "original_price": 450,
+    "description": "Concepts of Physics by H.C. Verma is a comprehensive book on physics for students preparing for various competitive examinations.",
+    "category": "Physics",
+    "cover_image": "public/images/HCV-1.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Concept of Physics by H.C Verma Part - II - Session 2025-26",
+    "author": "H.C. Verma",
+    "price": 350,
+    "original_price": 450,
+    "description": "Concepts of Physics by H.C. Verma is a comprehensive book on physics for students preparing for various competitive examinations.",
+    "category": "Physics",
+    "cover_image": "public/images/HCV-2.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Problems in Physical Chemistry for NEET",
+    "author": "Balaji Publications",
+    "price": 450,
+    "original_price": 550,
+    "description": "A comprehensive book for students preparing for the NEET exam, focusing on physical chemistry problems.",
+    "category": "Chemistry",
+    "cover_image": "public/images/physical-chemistry-neet-balaji.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Elementary Problems in Organic Chemistry for NEET",
+    "author": "Balaji Publications",
+    "price": 450,
+    "original_price": 550,
+    "description": "A comprehensive book for students preparing for the NEET exam, focusing on organic chemistry problems.",
+    "category": "Chemistry",
+    "cover_image": "public/images/organic-chemistry-balaji_.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Problems in Inorganic Chemistry for NEET",
+    "author": "Balaji Publications",
+    "price": 450,
+    "original_price": 550,
+    "description": "A comprehensive book for students preparing for the NEET exam, focusing on inorganic chemistry problems.",
+    "category": "Chemistry",
+    "cover_image": "public/images/Inorganic-chemistry-neet-balaji.jpg"
+  }
+]
