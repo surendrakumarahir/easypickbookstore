@@ -3,6 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const searchInput = document.getElementById('search-input');
     const categoryFilter = document.getElementById('category-filter');
     const sortBy = document.getElementById('sort-by');
+    const gridColumns = document.getElementById('grid-columns');
     
     let books = [];
     let allCategories = [];
@@ -65,6 +66,10 @@ document.addEventListener('DOMContentLoaded', () => {
     // Function to display books
     function displayBooks(booksToDisplay) {
         bookList.innerHTML = ''; // Clear existing list
+        const columns = gridColumns.value;
+        bookList.style.gridTemplateColumns = `repeat(${columns}, 1fr)`;
+        bookList.classList.remove('grid-cols-4', 'grid-cols-8', 'grid-cols-12');
+        bookList.classList.add(`grid-cols-${columns}`);
 
         if (booksToDisplay.length === 0) {
             bookList.innerHTML = '<p>No books found matching your criteria.</p>';
@@ -115,4 +120,5 @@ document.addEventListener('DOMContentLoaded', () => {
     searchInput.addEventListener('input', renderBooks);
     categoryFilter.addEventListener('change', renderBooks);
     sortBy.addEventListener('change', renderBooks);
+    gridColumns.addEventListener('change', renderBooks);
 });

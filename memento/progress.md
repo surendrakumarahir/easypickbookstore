@@ -11,7 +11,9 @@
 -   **Product Catalog:** The product catalog in `books.json` has been updated with new items.
 -   **Header Logo:** The logo is now correctly displayed in the header.
 -   **Price Display:** Prices are displayed in Rupees (₹) and the discount percentage is shown in green.
--   **CSS:** A syntax error in the stylesheet has been corrected.
+-   **CSS:** A syntax error in the stylesheet has been corrected, and the mobile responsiveness of the search controls has been fixed.
+-   **Grid Layout Control:** A dropdown has been added to allow users to change the number of columns in the grid (4, 8, or 12). This dropdown is now hidden on mobile devices.
+-   **Responsive Images:** The height of the book images now adjusts based on the selected grid layout, ensuring a more balanced design.
 
 ## What's Left to Build
 
@@ -19,8 +21,8 @@
 
 ## Current Status
 
--   **Phase:** Finalizing UI.
--   **Description:** All UI improvements are complete, and the application is stable. The product catalog has been updated.
+-   **Phase:** Feature Complete.
+-   **Description:** All requested features have been implemented and are functional.
 
 ## Known Issues
 

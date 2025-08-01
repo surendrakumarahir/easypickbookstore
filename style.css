@@ -93,6 +93,15 @@ header h1 {
     object-fit: cover;
 }
 
+/* Dynamic grid styles */
+.book-grid.grid-cols-8 .book-card img {
+    height: 150px;
+}
+
+.book-grid.grid-cols-12 .book-card img {
+    height: 100px;
+}
+
 .book-card .book-content {
     padding: 1rem;
     display: flex;
@@ -151,16 +160,28 @@ header h1 {
         margin-bottom: 1rem;
     }
 
-    #search-input {
+    .controls {
+        flex-direction: column;
         width: 100%;
+        gap: 0.5rem; /* Tighter spacing for mobile */
+    }
+
+    #search-input,
+    .controls select {
+        width: 100%;
+        box-sizing: border-box; /* Include padding and border in the element's total width */
     }
 
     #search-input:focus {
-        width: 100%;
+        width: 100%; /* Ensure it doesn't expand further */
     }
 
     .book-grid {
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: repeat(2, 1fr) !important; /* Ensure 2 columns on mobile */
         padding: 1rem;
+    }
+
+    #grid-columns {
+        display: none; /* Hide the grid-columns dropdown on mobile */
     }
 }
