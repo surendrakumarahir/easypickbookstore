@@ -1,0 +1,187 @@
+/* General Body Styles */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    margin: 0;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+/* Header Styles */
+header {
+    background-color: #fff;
+    padding: 1rem 2rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 1.5rem;
+    color: #0056b3;
+}
+
+.logo {
+    height: 40px;
+    margin-right: 1rem;
+}
+
+#search-input {
+    width: 300px;
+    padding: 0.5rem 1rem;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    font-size: 1rem;
+    outline: none;
+    transition: width 0.3s ease;
+}
+
+#search-input:focus {
+    width: 400px;
+    border-color: #0056b3;
+}
+
+/* Header controls */
+.controls {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+
+.controls select {
+    padding: 0.5rem 1rem;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    font-size: 1rem;
+    background-color: #fff;
+    outline: none;
+}
+
+/* Book Grid Layout */
+.book-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1.5rem;
+    padding: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* Book Card Styles */
+.book-card {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.book-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.book-card img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+
+/* Dynamic grid styles */
+.book-grid.grid-cols-8 .book-card img {
+    height: 150px;
+}
+
+.book-grid.grid-cols-12 .book-card img {
+    height: 100px;
+}
+
+.book-card .book-content {
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+.book-content h2 {
+    font-size: 1.2rem;
+    margin: 0 0 0.5rem;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.book-content .description {
+    display: none;
+}
+
+.book-content .price-container {
+    margin-top: auto;
+    text-align: right;
+}
+
+.book-content .price {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #007bff;
+}
+
+.book-content .original-price {
+    font-size: 0.9rem;
+    color: #888;
+    text-decoration: line-through;
+    margin-right: 0.5rem;
+}
+
+.discount {
+    color: green;
+    font-size: 0.9rem;
+    font-weight: bold;
+    margin-left: 0.5rem;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    header {
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 1rem;
+    }
+
+    header h1 {
+        margin-bottom: 1rem;
+    }
+
+    .controls {
+        flex-direction: column;
+        width: 100%;
+        gap: 0.5rem; /* Tighter spacing for mobile */
+    }
+
+    #search-input,
+    .controls select {
+        width: 100%;
+        box-sizing: border-box; /* Include padding and border in the element's total width */
+    }
+
+    #search-input:focus {
+        width: 100%; /* Ensure it doesn't expand further */
+    }
+
+    .book-grid {
+        grid-template-columns: repeat(2, 1fr) !important; /* Ensure 2 columns on mobile */
+        padding: 1rem;
+    }
+
+    #grid-columns {
+        display: none; /* Hide the grid-columns dropdown on mobile */
+    }
+}

@@ -1,0 +1,329 @@
+[
+  {
+    "id": 1,
+    "title": "38 Years NEET Previous Year Solved Question Papers Chemistry PYQ (2025 - 1988) Chapterwise Topicwise Solutions For NEET Exam 2026 with Newly Added Topics",
+    "author": "PW",
+    "price": 280,
+    "original_price": 399,
+    "description": "Prepare for NEET Chemistry with ‘38 Years NEET Previous Year Solved Question Papers Chemistry PYQ (2025-1988)’. This NEET Chemistry book offers a practical approach with 38 Years of Solved Question Papers, helping you understand exam patterns and key topics. It aligns with the latest NEET syllabus and includes updated questions to support your focused revision. Additionally, it provides chapter-wise topic-wise solutions for the NEET Exam 2026 with newly added topics, ensuring comprehensive coverage for your preparation.",
+    "category": "NEET",
+    "cover_image": "public/images/38-chemistry-neet-pw.png"
+  },
+  {
+    "id": 2,
+    "title": "38 Years NEET Previous Year Solved Question Papers Physics PYQ (2025 - 1988) Chapterwise Topicwise Solutions For NEET Exam 2026 with Newly Added Topics",
+    "author": "PW",
+    "price": 315,
+    "original_price": 449,
+    "description": "Prepare for NEET Physics with ‘38 Years NEET Previous Year Solved Question Papers Physics PYQ (2025-1988)’. This NEET Physics book offers a practical approach with 38 Years of Solved Question Papers, helping you understand exam patterns and key topics. It aligns with the latest NEET syllabus and includes updated questions to support your focused revision. Additionally, it provides Chapterwise topic-wise solutions for the NEET Exam 2026 with newly added topics, ensuring comprehensive coverage for your preparation.",
+    "category": "NEET",
+    "cover_image": "public/images/38-physics-neet-pw.png"
+  },
+  {
+    "id": 3,
+    "title": "38 Years NEET Previous Year Solved Question Papers Biology PYQ (2025 - 1988) Chapterwise Topicwise Solutions For NEET Exam 2026 with Newly Added Topics",
+    "author": "PW",
+    "price": 322,
+    "original_price": 459,
+    "description": "Prepare for NEET Biology with ‘38 Years NEET Previous Year Solved Question Papers Biology PYQ (2025-1988)’. This NEET Biology book offers a practical approach with 38 Years of Solved Question Papers, helping you understand exam patterns and key topics. It aligns with the latest NEET syllabus and includes updated questions to support your focused revision. Additionally, it provides Chapterwise topic-wise solutions for the NEET Exam 2026 with newly added topics, ensuring comprehensive coverage for your preparation.",
+    "category": "NEET",
+    "cover_image": "public/images/38-biology-neet-pw.png"
+  },
+  {
+    "id": 3.5,
+    "title": "38 Years NEET Previous Question Papers with Solutions (Physics, Chemistry, Biology)",
+    "author": "PW",
+    "price": 845,
+    "original_price": 1300,
+    "description": "38 Years NEET Previous Question Papers with Solutions for Physics, Chemistry & Biology by PW.",
+    "category": "NEET",
+    "cover_image": "public/images/Neet-pw-38-all-subject.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Physics Handwritten Notes by Mr Sir",
+    "author": "Mr Sir",
+    "price": 421,
+    "original_price": 525,
+    "description": "Physics Handwritten Notes by Mr Sir for NEET preparation.",
+    "category": "NEET",
+    "cover_image": "public/images/physics-made-easy-pw.png"
+  },
+  {
+    "id": 5,
+    "title": "Botany Med Easy Hand Written Notes",
+    "author": "PW",
+    "price": 421,
+    "original_price": 525,
+    "description": "Botany Med Easy Hand Written Notes for NEET preparation.",
+    "category": "NEET",
+    "cover_image": "public/images/botany-made-easy-pw.png"
+  },
+  {
+    "id": 6,
+    "title": "Zoology Med Easy Notes",
+    "author": "PW",
+    "price": 421,
+    "original_price": 525,
+    "description": "Zoology Med Easy Notes for NEET preparation.",
+    "category": "NEET",
+    "cover_image": "public/images/zologiy-made-easy-pw.png"
+  },
+  {
+    "id": 7,
+    "title": "MEDEASY Handwritten Notes Chemistry by Pankaj Sijairya",
+    "author": "Pankaj Sijairya",
+    "price": 421,
+    "original_price": 525,
+    "description": "MEDEASY Handwritten Notes Chemistry by Pankaj Sijairya for NEET preparation.",
+    "category": "NEET",
+    "cover_image": "public/images/chemistry-made-easy-pw.png"
+  },
+  {
+    "id": 7.5,
+    "title": "Med Easy NEET/JEE Notebooks Combo",
+    "author": "PW",
+    "price": 1714,
+    "original_price": 2260,
+    "description": "Med Easy NEET/JEE Notebooks Combo (Set of 8 Books) for Physics, Chemistry & Biology by PW.",
+    "category": "NEET",
+    "cover_image": "public/images/made-easy-all.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Concepts of Physics Volume 1 Book in English By H C Verma Latest Edition",
+    "author": "H.C. Verma",
+    "price": 504,
+    "original_price": 560,
+    "description": "Concepts of Physics by H.C. Verma is a comprehensive book on physics for students preparing for various competitive examinations.",
+    "category": "Physics",
+    "cover_image": "public/images/HCV-1.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Concept of Physics by H.C Verma Part - II - Session 2025-26",
+    "author": "H.C. Verma",
+    "price": 504,
+    "original_price": 560,
+    "description": "Concepts of Physics by H.C. Verma is a comprehensive book on physics for students preparing for various competitive examinations.",
+    "category": "Physics",
+    "cover_image": "public/images/HCV-2.jpg"
+  },
+  {
+    "id": 9.5,
+    "title": "Concepts of Physics Vol 1 & 2",
+    "author": "H.C. Verma",
+    "price": 975,
+    "original_price": 1120,
+    "description": "This book set contains H.C. Verma's Concepts of Physics, Part 1 and 2. It's a comprehensive guide for students preparing for competitive exams.",
+    "category": "Physics",
+    "cover_image": "public/images/hc-verma-1-2.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Problems in Physical Chemistry for NEET",
+    "author": "Balaji Publications",
+    "price": 557,
+    "original_price": 618,
+    "description": "A comprehensive book for students preparing for the NEET exam, focusing on physical chemistry problems.",
+    "category": "Chemistry",
+    "cover_image": "public/images/physical-chemistry-neet-balaji.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Elementary Problems in Organic Chemistry for NEET",
+    "author": "Balaji Publications",
+    "price": 566,
+    "original_price": 628,
+    "description": "A comprehensive book for students preparing for the NEET exam, focusing on organic chemistry problems.",
+    "category": "Chemistry",
+    "cover_image": "public/images/organic-chemistry-balaji_.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Problems in Inorganic Chemistry for NEET",
+    "author": "Balaji Publications",
+    "price": 431,
+    "original_price": 478,
+    "description": "A comprehensive book for students preparing for the NEET exam, focusing on inorganic chemistry problems.",
+    "category": "Chemistry",
+    "cover_image": "public/images/Inorganic-chemistry-neet-balaji.jpg"
+  },
+  {
+    "id": 13,
+    "title": "38 Years NEET Chapterwise Topicwise Solutions - Chemistry",
+    "author": "MTG Editorial Board",
+    "price": 420,
+    "original_price": 600,
+    "description": "MTG's 38 Years NEET Chapterwise Topicwise Solutions Chemistry is a comprehensive book designed for students aspiring to crack the NEET exam.",
+    "category": "NEET",
+    "cover_image": "public/images/mtg-38-chemistry-neet.jpg"
+  },
+  {
+    "id": 14,
+    "title": "38 Years NEET Chapterwise Topicwise Solutions - Physics",
+    "author": "MTG Editorial Board",
+    "price": 315,
+    "original_price": 450,
+    "description": "MTG's 38 Years NEET Chapterwise Topicwise Solutions Physics is a comprehensive book designed for students aspiring to crack the NEET exam.",
+    "category": "NEET",
+    "cover_image": "public/images/mtg-38-physics-neet.jpg"
+  },
+  {
+    "id": 15,
+    "title": "38 Years NEET Chapterwise Topicwise Solutions - Biology",
+    "author": "MTG Editorial Board",
+    "price": 315,
+    "original_price": 450,
+    "description": "MTG's 38 Years NEET Chapterwise Topicwise Solutions Biology is a comprehensive book designed for students aspiring to crack the NEET exam.",
+    "category": "NEET",
+    "cover_image": "public/images/mtg-38-biology-neet.jpg"
+  },
+  {
+    "id": 16,
+    "title": "38 Years NEET Chapterwise Topicwise Solutions - Set of 3 Books",
+    "author": "MTG Editorial Board",
+    "price": 975,
+    "original_price": 1500,
+    "description": "MTG's 38 Years NEET Chapterwise Topicwise Solutions Set of 3 Books (Physics, Chemistry, Biology) is a comprehensive book designed for students aspiring to crack the NEET exam.",
+    "category": "NEET",
+    "cover_image": "public/images/all-38-mtg-38.jpg"
+  },
+  {
+    "id": 17,
+    "title": "MTG Objective NCERT at your FINGERTIPS Physics For 2025-2026 Exam - NCERT NEET/JEE Trend Indicator, HOTS MCQs, Rank Predictor & Notes with HD Pages | NEET & JEE Books (Based on NCERT Latest Pattern)",
+    "author": "MTG Editorial Board",
+    "price": 697,
+    "original_price": 995,
+    "description": "Exam - NCERT NEET/JEE Trend Indicator, HOTS MCQs, Rank Predictor & Notes with HD Pages | NEET & JEE Books (Based on NCERT Latest Pattern)",
+    "category": "NEET",
+    "cover_image": "public/images/ncert-ft-physics-mtg.jpg"
+  },
+   {
+    "id": 18,
+    "title": "MTG Objective NCERT at your FINGERTIPS Chemistry For 2025-2026 Exam - NCERT NEET/JEE Trend Indicator, HOTS MCQs, Rank Predictor & Notes with HD Pages | NEET & JEE Books (Based on NCERT Latest Pattern)",
+    "author": "MTG Editorial Board",
+    "price": 697,
+    "original_price": 995,
+    "description": "MTG Objective NCERT at your FINGERTIPS Chemistry For 2025-2026 Exam - NCERT NEET/JEE Trend Indicator, HOTS MCQs, Rank Predictor & Notes with HD Pages | NEET & JEE Books (Based on NCERT Latest Pattern)",
+    "category": "NEET",
+    "cover_image": "public/images/ncert-ft-chemistry-mtg.jpg"
+  },
+  {
+    "id": 19,
+    "title": "MTG Objective NCERT at your FINGERTIPS Biology For 2025-2026 Exam - NCERT NEET Trend Indicator, HOTS MCQs, Rank Predictor & Notes with HD Pages | NEET Books (Based on NCERT Latest Pattern)",
+    "author": "MTG Editorial Board",
+    "price": 697,
+    "original_price": 995,
+    "description": "MTG Objective NCERT at your FINGERTIPS Biology For 2025-2026 Exam - NCERT NEET Trend Indicator, HOTS MCQs, Rank Predictor & Notes with HD Pages | NEET Books (Based on NCERT Latest Pattern)",
+    "category": "NEET",
+    "cover_image": "public/images/mtg-fiingertips-biology-ncert-neet.jpg"
+  }, {
+    "id": 20,
+    "title": "PW SKC Physics Crush Class 11 Handwritten Format Notes By Saleem Sir For JEE and NEET Exams | A Beautiful Journey From Basic to JEE Advanced via JEE/ NEET",
+    "author": "Saleem Ahmed ",
+    "price": 480,
+    "original_price": 599,
+    "description": "PW SKC Physics Crush Class 11 Handwritten Format Notes By Saleem Sir For JEE and NEET Exams | A Beautiful Journey From Basic to JEE Advanced via JEE/ NEET",
+    "category": "NEET",
+    "cover_image": "public/images/skc-physics-crush-class-11.jpg"
+  },
+  {
+    "id": 21,
+    "title": "Physics Wallah SKC Physics Crush Class 12 Handwritten Format Notes By Saleem Sir For JEE and NEET Exams | A Beautiful Journey From Basic to JEE Advanced via JEE/ NEET",
+    "author": "By PW",
+    "price": 440,
+    "original_price": 549,
+    "description": "Physics Wallah SKC Physics Crush Class 12 Handwritten Format Notes By Saleem Sir For JEE and NEET Exams | A Beautiful Journey From Basic to JEE Advanced via JEE/ NEET",
+    "category": "NEET",
+    "cover_image": "public/images/skc-physics-crush-12.jpg"
+  },
+  {
+    "id": 23,
+    "title": "EaJEE Handwritten Notes For Inorganic Chemistry By Om Pandey | Chapterwise and Topicwise Questions | Complete JEE Main & Advanced Syllabus | Handpicked PYQs",
+    "author": "By PW",
+    "price": 480,
+    "original_price": 599,
+    "description": "EaJEE Handwritten Notes For Inorganic Chemistry By Om Pandey | Chapterwise and Topicwise Questions | Complete JEE Main & Advanced Syllabus | Handpicked PYQs",
+    "category": "Jee",
+    "cover_image": "public/images/EaJEE-notes-inorganic-chemistry.png"
+  },
+  {
+    "id": 24,
+    "title": "Advanced Problems in Mathematics for JEE (Main & Advanced) - 11th Edition, 2025",
+    "author": " Vikas Gupta",
+    "price": 414,
+    "original_price": 460,
+    "description": "Advanced Problems in Mathematics for JEE (Main & Advanced) - 11th Edition, 2025",
+    "category": "Jee",
+    "cover_image": "public/images/Math-jee-vikas-gupta.jpg"
+  },
+  {
+    "id": 25,
+    "title": "PW Maths Made EJEE Class 11 Handwritten Notes By Sachin Jhakar For JEE Exams",
+    "author": "Sachin Jakhar",
+    "price": 440,
+    "original_price": 549,
+    "description": "PW Maths Made EJEE Class 11 Handwritten Notes By Sachin Jhakar For JEE Exams",
+    "category": "Jee",
+    "cover_image": "public/images/math-made-eJee-sachin-jakhar.jpg"
+  },
+  {
+    "id": 26,
+    "title": "Physics Textbook Part - 1 For Class - 11 - 11086 2025-26 Edition",
+    "author": "NCERT",
+    "price": 120,
+    "original_price": 120,
+    "description": "Physics Textbook Part - 1 For Class - 11 - 11086 2025-26 Edition",
+    "category": "11",
+    "cover_image": "public/images/physics-part-1-11.jpg"
+  }, {
+    "id": 27,
+    "title": "Physics Textbook Part - 2 For Class - 11 - 11087 2025-26 Edition",
+    "author": "NCERT",
+    "price": 135,
+    "original_price": 135,
+    "description": "Physics Textbook Part - 2 For Class - 11 - 11087 2025-26 Edition",
+    "category": "11",
+    "cover_image": "public/images/physics-part-2-ncert-11.jpg"
+  }, {
+    "id": 28,
+    "title": "Physics Wallah PW JEE Main 7 Years (2019 - 2025) Chemistry All 144 Shifts Online Previous Years Solved Papers Chapterwise and Topicwise PYQs For JEE Main 2026 Exams | Concentrate on Relevance",
+    "author": "Physics Wallah",
+    "price": 490,
+    "original_price": 699,
+    "description": "Physics Wallah PW JEE Main 7 Years (2019 - 2025) Chemistry All 144 Shifts Online Previous Years Solved Papers Chapterwise and Topicwise PYQs For JEE Main 2026 Exams | Concentrate on Relevance",
+    "category": "11",
+    "cover_image": "public/images/physics-wallah-jee-7-year.jpg"
+  },
+  {
+    "id": 29,
+    "title": "Physics Wallah PW JEE Main 7 Years (2019 - 2025) Chemistry All 144 Shifts Online Previous Years Solved Papers Chapterwise and Topicwise PYQs For JEE Main 2026 Exams | Concentrate on Relevance",
+    "author": "Physics Wallah",
+    "price": 490,
+    "original_price": 699,
+    "description": "Physics Wallah PW JEE Main 7 Years (2019 - 2025) Chemistry All 144 Shifts Online Previous Years Solved Papers Chapterwise and Topicwise PYQs For JEE Main 2026 Exams | Concentrate on Relevance",
+    "category": "11",
+    "cover_image": "public/images/7-year-jee-pw-chemistry.jpg"
+  }, 
+  {
+    "id": 30,
+    "title": "Arihant 24 Years JEE Main Physics Chapterwise Topicwise PYQ with 3500+ MCQ |Verified Answer by NTA, Solution with Key Idea, Concept Enhancer and Alternate Solutions and Difficulty Level Sorting of PYQ | For exam 2025-26",
+    "author": "by Dharmendra Singh (Author), Sumit Shukla (Author)",
+    "price": 580,
+    "original_price": 810,
+    "description": "Arihant 24 Years JEE Main Physics Chapterwise Topicwise PYQ with 3500+ MCQ |Verified Answer by NTA, Solution with Key Idea, Concept Enhancer and Alternate Solutions and Difficulty Level Sorting of PYQ | For exam 2025-26",
+    "category": "11",
+    "cover_image": "public/images/24-years-jee-main-physics.jpg"
+  },
+  {
+    "id": 31,
+    "title": "Arihant 24 Years JEE Main Chemistry Chapterwise Topicwise PYQ with 3500+ MCQ | Verified Answer by NTA, Solution with Key Idea, Concept Enhancer and Alternate Solutions and Difficulty Level Sorting of PYQ | For exam 2025-26",
+    "author": "by Pooja Yadav (Author), Shalini Singh (Author)",
+    "price": 438,
+    "original_price": 625,
+    "description": "Physics Wallah PW JEE Main 7 Years (2019 - 2025) Physics All 144 Shifts Online Previous Years Solved Papers Chapterwise and Topicwise PYQs For JEE Main 2026 Exams | Concentrate on Relevance",
+    "category": "11",
+    "cover_image": "public/images/24-years-jee-main-chemistry.jpg"
+  }
+]
