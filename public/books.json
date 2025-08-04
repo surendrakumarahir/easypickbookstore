@@ -188,5 +188,142 @@
     "description": "MTG's 38 Years NEET Chapterwise Topicwise Solutions Set of 3 Books (Physics, Chemistry, Biology) is a comprehensive book designed for students aspiring to crack the NEET exam.",
     "category": "NEET",
     "cover_image": "public/images/all-38-mtg-38.jpg"
+  },
+  {
+    "id": 17,
+    "title": "MTG Objective NCERT at your FINGERTIPS Physics For 2025-2026 Exam - NCERT NEET/JEE Trend Indicator, HOTS MCQs, Rank Predictor & Notes with HD Pages | NEET & JEE Books (Based on NCERT Latest Pattern)",
+    "author": "MTG Editorial Board",
+    "price": 697,
+    "original_price": 995,
+    "description": "Exam - NCERT NEET/JEE Trend Indicator, HOTS MCQs, Rank Predictor & Notes with HD Pages | NEET & JEE Books (Based on NCERT Latest Pattern)",
+    "category": "NEET",
+    "cover_image": "public/images/ncert-ft-physics-mtg.jpg"
+  },
+   {
+    "id": 18,
+    "title": "MTG Objective NCERT at your FINGERTIPS Chemistry For 2025-2026 Exam - NCERT NEET/JEE Trend Indicator, HOTS MCQs, Rank Predictor & Notes with HD Pages | NEET & JEE Books (Based on NCERT Latest Pattern)",
+    "author": "MTG Editorial Board",
+    "price": 697,
+    "original_price": 995,
+    "description": "MTG Objective NCERT at your FINGERTIPS Chemistry For 2025-2026 Exam - NCERT NEET/JEE Trend Indicator, HOTS MCQs, Rank Predictor & Notes with HD Pages | NEET & JEE Books (Based on NCERT Latest Pattern)",
+    "category": "NEET",
+    "cover_image": "public/images/ncert-ft-chemistry-mtg.jpg"
+  },
+  {
+    "id": 19,
+    "title": "MTG Objective NCERT at your FINGERTIPS Biology For 2025-2026 Exam - NCERT NEET Trend Indicator, HOTS MCQs, Rank Predictor & Notes with HD Pages | NEET Books (Based on NCERT Latest Pattern)",
+    "author": "MTG Editorial Board",
+    "price": 697,
+    "original_price": 995,
+    "description": "MTG Objective NCERT at your FINGERTIPS Biology For 2025-2026 Exam - NCERT NEET Trend Indicator, HOTS MCQs, Rank Predictor & Notes with HD Pages | NEET Books (Based on NCERT Latest Pattern)",
+    "category": "NEET",
+    "cover_image": "public/images/mtg-fiingertips-biology-ncert-neet.jpg"
+  }, {
+    "id": 20,
+    "title": "PW SKC Physics Crush Class 11 Handwritten Format Notes By Saleem Sir For JEE and NEET Exams | A Beautiful Journey From Basic to JEE Advanced via JEE/ NEET",
+    "author": "Saleem Ahmed ",
+    "price": 480,
+    "original_price": 599,
+    "description": "PW SKC Physics Crush Class 11 Handwritten Format Notes By Saleem Sir For JEE and NEET Exams | A Beautiful Journey From Basic to JEE Advanced via JEE/ NEET",
+    "category": "NEET",
+    "cover_image": "public/images/skc-physics-crush-class-11.jpg"
+  },
+  {
+    "id": 21,
+    "title": "Physics Wallah SKC Physics Crush Class 12 Handwritten Format Notes By Saleem Sir For JEE and NEET Exams | A Beautiful Journey From Basic to JEE Advanced via JEE/ NEET",
+    "author": "By PW",
+    "price": 440,
+    "original_price": 549,
+    "description": "Physics Wallah SKC Physics Crush Class 12 Handwritten Format Notes By Saleem Sir For JEE and NEET Exams | A Beautiful Journey From Basic to JEE Advanced via JEE/ NEET",
+    "category": "NEET",
+    "cover_image": "public/images/skc-physics-crush-12.jpg"
+  },
+  {
+    "id": 23,
+    "title": "EaJEE Handwritten Notes For Inorganic Chemistry By Om Pandey | Chapterwise and Topicwise Questions | Complete JEE Main & Advanced Syllabus | Handpicked PYQs",
+    "author": "By PW",
+    "price": 480,
+    "original_price": 599,
+    "description": "EaJEE Handwritten Notes For Inorganic Chemistry By Om Pandey | Chapterwise and Topicwise Questions | Complete JEE Main & Advanced Syllabus | Handpicked PYQs",
+    "category": "Jee",
+    "cover_image": "public/images/EaJEE-notes-inorganic-chemistry.png"
+  },
+  {
+    "id": 24,
+    "title": "Advanced Problems in Mathematics for JEE (Main & Advanced) - 11th Edition, 2025",
+    "author": " Vikas Gupta",
+    "price": 414,
+    "original_price": 460,
+    "description": "Advanced Problems in Mathematics for JEE (Main & Advanced) - 11th Edition, 2025",
+    "category": "Jee",
+    "cover_image": "public/images/Math-jee-vikas-gupta.jpg"
+  },
+  {
+    "id": 25,
+    "title": "PW Maths Made EJEE Class 11 Handwritten Notes By Sachin Jhakar For JEE Exams",
+    "author": "Sachin Jakhar",
+    "price": 440,
+    "original_price": 549,
+    "description": "PW Maths Made EJEE Class 11 Handwritten Notes By Sachin Jhakar For JEE Exams",
+    "category": "Jee",
+    "cover_image": "public/images/math-made-eJee-sachin-jakhar.jpg"
+  },
+  {
+    "id": 26,
+    "title": "Physics Textbook Part - 1 For Class - 11 - 11086 2025-26 Edition",
+    "author": "NCERT",
+    "price": 120,
+    "original_price": 120,
+    "description": "Physics Textbook Part - 1 For Class - 11 - 11086 2025-26 Edition",
+    "category": "11",
+    "cover_image": "public/images/physics-part-1-11.jpg"
+  }, {
+    "id": 27,
+    "title": "Physics Textbook Part - 2 For Class - 11 - 11087 2025-26 Edition",
+    "author": "NCERT",
+    "price": 135,
+    "original_price": 135,
+    "description": "Physics Textbook Part - 2 For Class - 11 - 11087 2025-26 Edition",
+    "category": "11",
+    "cover_image": "public/images/physics-part-2-ncert-11.jpg"
+  }, {
+    "id": 28,
+    "title": "Physics Wallah PW JEE Main 7 Years (2019 - 2025) Chemistry All 144 Shifts Online Previous Years Solved Papers Chapterwise and Topicwise PYQs For JEE Main 2026 Exams | Concentrate on Relevance",
+    "author": "Physics Wallah",
+    "price": 490,
+    "original_price": 699,
+    "description": "Physics Wallah PW JEE Main 7 Years (2019 - 2025) Chemistry All 144 Shifts Online Previous Years Solved Papers Chapterwise and Topicwise PYQs For JEE Main 2026 Exams | Concentrate on Relevance",
+    "category": "11",
+    "cover_image": "public/images/physics-wallah-jee-7-year.jpg"
+  },
+  {
+    "id": 29,
+    "title": "Physics Wallah PW JEE Main 7 Years (2019 - 2025) Chemistry All 144 Shifts Online Previous Years Solved Papers Chapterwise and Topicwise PYQs For JEE Main 2026 Exams | Concentrate on Relevance",
+    "author": "Physics Wallah",
+    "price": 490,
+    "original_price": 699,
+    "description": "Physics Wallah PW JEE Main 7 Years (2019 - 2025) Chemistry All 144 Shifts Online Previous Years Solved Papers Chapterwise and Topicwise PYQs For JEE Main 2026 Exams | Concentrate on Relevance",
+    "category": "11",
+    "cover_image": "public/images/7-year-jee-pw-chemistry.jpg"
+  }, 
+  {
+    "id": 30,
+    "title": "Arihant 24 Years JEE Main Physics Chapterwise Topicwise PYQ with 3500+ MCQ |Verified Answer by NTA, Solution with Key Idea, Concept Enhancer and Alternate Solutions and Difficulty Level Sorting of PYQ | For exam 2025-26",
+    "author": "by Dharmendra Singh (Author), Sumit Shukla (Author)",
+    "price": 580,
+    "original_price": 810,
+    "description": "Arihant 24 Years JEE Main Physics Chapterwise Topicwise PYQ with 3500+ MCQ |Verified Answer by NTA, Solution with Key Idea, Concept Enhancer and Alternate Solutions and Difficulty Level Sorting of PYQ | For exam 2025-26",
+    "category": "11",
+    "cover_image": "public/images/24-years-jee-main-physics.jpg"
+  },
+  {
+    "id": 31,
+    "title": "Arihant 24 Years JEE Main Chemistry Chapterwise Topicwise PYQ with 3500+ MCQ | Verified Answer by NTA, Solution with Key Idea, Concept Enhancer and Alternate Solutions and Difficulty Level Sorting of PYQ | For exam 2025-26",
+    "author": "by Pooja Yadav (Author), Shalini Singh (Author)",
+    "price": 438,
+    "original_price": 625,
+    "description": "Physics Wallah PW JEE Main 7 Years (2019 - 2025) Physics All 144 Shifts Online Previous Years Solved Papers Chapterwise and Topicwise PYQs For JEE Main 2026 Exams | Concentrate on Relevance",
+    "category": "11",
+    "cover_image": "public/images/24-years-jee-main-chemistry.jpg"
   }
 ]
